@@ -1,0 +1,43 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/line/line"
+  ],
+  "window": {
+    "backgroundColor": "#FF4E4E",
+    "backgroundTextStyle": "light",
+    "backgroundColorTop": "#F4CCCC",
+    "backgroundColorBottom": "#FFFFFF",
+    "navigationBarBackgroundColor": "#F4CCCC",
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "个人助手"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "./assets/index-unselect.png",
+        "selectedIconPath": "./assets/index-selected.png"
+      },
+      {
+        "pagePath": "pages/line/line",
+        "text": "数据",
+        "iconPath": "./assets/chart-unselect.png",
+        "selectedIconPath": "./assets/chart-selected.png"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "日志",
+        "iconPath": "./assets/setting-unselect.png",
+        "selectedIconPath": "./assets/setting-selected.png"
+      }
+    ],
+    "borderStyle": "white",
+    "selectedColor": "#AB9569",
+    "color": "#909090",
+    "backgroundColor": "#f4cccc"
+  },
+  "style": "v2"
+}

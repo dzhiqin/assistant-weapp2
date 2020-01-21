@@ -1,0 +1,10 @@
+{
+  "usingComponents": {},
+  "backgroundColor": "#FF4E4E",
+  "backgroundTextStyle": "light",
+  "backgroundColorTop": "#F4CCCC",
+  "backgroundColorBottom": "#FFFFFF",
+  "navigationBarBackgroundColor": "#F4CCCC",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "个人助手"
+}
